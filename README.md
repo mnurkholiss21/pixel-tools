@@ -1,4 +1,4 @@
-# PixelForge
+# PixelTools
 
 A small desktop app for turning regular images into pixel art.
 
