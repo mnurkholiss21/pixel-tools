@@ -49,7 +49,7 @@ class PixelConverterApp:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("PixelForge - Image Pixelator")
+        self.root.title("PixelTools - Image Pixelator")
         self.root.geometry("980x720")
         self.root.minsize(760, 560)
         self.root.configure(bg="#202124")
@@ -70,7 +70,7 @@ class PixelConverterApp:
         header.pack(fill="x", padx=24, pady=(20, 8))
         tk.Label(
             header,
-            text="PixelTool",
+            text="PixelTools",
             font=("Segoe UI", 24, "bold"),
             fg="#f1f3f4",
             bg="#202124",

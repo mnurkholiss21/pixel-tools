@@ -1,4 +1,4 @@
-# PixelForge
+# PixelTools
 
 A small desktop app for turning regular images into pixel art.
 
@@ -63,7 +63,7 @@ This project is available under the MIT License. See [LICENSE](LICENSE).
 The MIT License allows others to use, modify, and distribute the project while
 requiring the original copyright and license notice to remain included.
 
-The project name **PixelForge** and its logo, if one is added later, are not
+The project name **PixelTools** and its logo, if one is added later, are not
 automatically protected as a trademark by this software license. Consider a
 separate trademark registration if the name becomes an important product or
 brand.
